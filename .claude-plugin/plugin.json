@@ -1,0 +1,1 @@
+{ "name": "contexto", "version": "0.1.0", "description": "Muestra siempre cuánto de la ventana de contexto lleva la sesión", "types": "./types/index.d.ts" }
